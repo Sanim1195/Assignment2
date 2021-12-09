@@ -1,0 +1,52 @@
+[
+    {   "foodName": "Momo",
+        "foodPrice": "5.2",
+        "foodCategory": "Nepali Street Food",
+        "foodDescription": "Momo is a type of Tibetan & Nepali dumpling dish and is popular in Tibet and Nepal.",
+        "discountStatus": "0"
+        
+    },
+
+    {   "foodName": "Butter Chicken",
+        "foodPrice": "10",
+        "foodCategory": "Indian Food",
+        "foodDescription": "Marinated with butter this chicken will spice up your taste buds",
+        "discountStatus": "1"
+        
+    },
+
+    {   "foodName": "Aloo Tikki",
+        "foodPrice": "7.5",
+        "foodCategory": "South Asian Food",
+        "foodDescription": "Emerging from all around South Asia aloo (Potato) is the best",
+        "discountStatus": "0"
+        
+    },
+
+    {   "foodName": "Sushi",
+        "foodPrice": "10.5",
+        "foodCategory": "Japanese Food",
+        "foodDescription": "Originally from this seas weed wrapped with rice has been taking over the world",
+        "discountStatus": "1"
+        
+    },
+
+    {   "foodName": "Wicked Wings",
+        "foodPrice": "7.5",
+        "foodCategory": "Kfc original Chicken",
+        "foodDescription": "Hot and spick wicked wings straight from Kfc",
+        "discountStatus": "0"
+        
+    },
+
+    {   "foodName": "Pizza",
+        "foodPrice": "25",
+        "foodCategory": "Italian Food",
+        "foodDescription": "Named after the famous place Piza in Italy this dish is one of the best from Italy",
+        "discountStatus": "0"
+        
+    }
+
+
+    
+  ]

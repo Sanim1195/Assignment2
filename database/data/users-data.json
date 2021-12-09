@@ -1,0 +1,75 @@
+[
+    { "userTypeId": 1,
+      "name": "Miaass",
+      "lastName": "Miaass",
+      "address": "Kings Drive",
+      "email": "roy@gemail.com",
+      "password": "helpme"
+      
+    },
+    {   "userTypeId": 2,
+        "name": "salsa",
+        "lastName": "Bakalsa",
+        "address": "queens Drive",
+        "email": "salsa@gemail.com",
+        "password": "whatisyoutalkingabout"
+        
+      },
+
+    {   "userTypeId": 1,
+        "name": "Avengers",
+        "lastName": "Assemble",
+        "address": "headquarters Drive",
+        "email": "avengers@gemail.com",
+        "password": "assembling"
+        
+    },
+
+    {   "userTypeId": 2,
+        "name": "Bat",
+        "lastName": "FromChina",
+        "address": "Cave drive",
+        "email": "manthebat@gemail.com",
+        "password": "whereisthejoker"
+        
+    },
+
+    {   "userTypeId": 2,
+        "name": "Super",
+        "lastName": "Nova",
+        "address": "Kryptonite",
+        "email": "superman@gemail.com",
+        "password": "iflybaby"
+        
+    },
+
+    {   "userTypeId": 2,
+        "name": "Spider",
+        "lastName": "Manavs",
+        "address": "Web",
+        "email": "makdimanav@gemail.com",
+        "password": "maryjane"
+        
+    },
+
+    {   "userTypeId": 2,
+        "name": "Iron",
+        "lastName": "Meweans",
+        "address": "Hollywood drive",
+        "email": "ironman@gemail.com",
+        "password": "iamironman"
+        
+    },
+
+    {   "userTypeId": 2,
+        "name": "Squid",
+        "lastName": "Gamess",
+        "address": "Red Light",
+        "email": "crosstheline@gemail.com",
+        "password": "nottheredlight"
+        
+    }
+
+
+    
+  ]

@@ -1,0 +1,13 @@
+[
+    {
+      "userTypeName": "System User",
+      "userTypeDiscription": "Users that can login and do system administration works."
+      
+    },
+    {
+      "userTypeName": "Customers",
+      "userTypeDiscription": "Users that can login and place an order."
+      
+    }
+   
+  ]
